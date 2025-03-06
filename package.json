@@ -1,0 +1,7 @@
+{
+    "name": "shared-types-init",
+    "version": "1.0.0",
+    "bin": {
+        "shared-types-init": "index.js"
+    }
+}
