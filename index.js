@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { execSync } = require("child_process");
 const repoUrl      = "https://github.com/exsan172/shared-types.git";
 
